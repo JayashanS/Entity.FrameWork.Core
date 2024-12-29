@@ -128,3 +128,4 @@ C:\Users\INT.Himantha\source\repos\EFCore\EFCore\obj\Debug\net8.0\refint\EFCore.
 C:\Users\INT.Himantha\source\repos\EFCore\EFCore\obj\Debug\net8.0\EFCore.pdb
 C:\Users\INT.Himantha\source\repos\EFCore\EFCore\obj\Debug\net8.0\EFCore.genruntimeconfig.cache
 C:\Users\INT.Himantha\source\repos\EFCore\EFCore\obj\Debug\net8.0\ref\EFCore.dll
+C:\Users\INT.Himantha\source\repos\EFCore\EFCore\obj\Debug\net8.0\EFCore.sourcelink.json
